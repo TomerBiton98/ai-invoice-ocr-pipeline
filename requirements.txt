@@ -1,0 +1,10 @@
+torchvision==0.16.0
+transformers==4.37.2
+accelerate==0.27.0
+datasets==2.17.0
+torch==2.1.0
+Pillow==11.0.0
+numpy<2
+
+
+python invoice_ocr.py invoice.pdf
